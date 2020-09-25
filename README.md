@@ -1,6 +1,6 @@
 # keyPress
 
-This is python script that runs indefinitely and presses a phontom "f22" key.
+This is python script that runs indefinitely and presses a phantom "f22" key.
 
 This can be used to prevent a computer from ever going to sleep.
 
